@@ -52,18 +52,18 @@
 ### 📈 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark" alt="Racha GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKER1208&theme=dark" alt="Racha GitHub" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IKER1208&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=vision-friendly-dark" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKER1208&layout=compact&theme=vision-friendly-dark" alt="Lenguajes Más Usados" />
 </p>
 
 ---
 
 ### 🏆 Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IKER1208&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -79,11 +79,11 @@
 
 ### 🔝 Proyectos Destacados
 
-1. **[Nombre Proyecto](https://github.com/tu-usuario/proyecto)** - Breve descripción
+1. **[Nombre Proyecto](https://github.com/IKER1208/Integradora)** - Breve descripción
    - Tecnologías usadas: React, Node.js, MongoDB
    - ⭐ **Stars:** [Número de estrellas]
 
-2. **[Nombre Proyecto](https://github.com/tu-usuario/proyecto)** - Breve descripción
+2. **[Nombre Proyecto](https://github.com/IKER1208/Parking)** - Breve descripción
    - Tecnologías usadas: Python, Django, PostgreSQL
    - 🚀 **Demo:** [Enlace a Demo]
 
