@@ -1,11 +1,7 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola,%20soy%20Enrique!%20👋&fontSize=36&fontAlignY=35&desc=Desarrollador%20de%20Software%20Apasionado&descAlignY=55&descAlign=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola,%20soy%20Iker!%20👋&fontSize=36&fontAlignY=35&desc=Desarrollador%20de%20Software%20Apasionado&descAlignY=55&descAlign=50" alt="header">
 </p>
-<!-- Título y contacto -->
-<h1 align="center">¡Hola 👋, Soy Iker!</h1>
-<h3 align="center"></h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/tu-linkedin" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
