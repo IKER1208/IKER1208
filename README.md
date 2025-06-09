@@ -5,7 +5,7 @@
 
 <!-- Título y contacto -->
 <h1 align="center">¡Hola 👋, Soy Iker!</h1>
-<h3 align="center">Apasionado [Tu Profesión] de [Tu Ubicación]</h3>
+<h3 align="center"></h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-linkedin" target="blank">
