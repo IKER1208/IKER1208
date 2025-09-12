@@ -14,17 +14,6 @@
   </a>
 </p>
 
----
-
-### 👨💻 Sobre Mí
-
-- 🔭 Actualmente trabajo en: **[Proyecto Actual]**
-- 🌱 Aprendiendo: **Tecnologías Recientes**
-- 👯 Busco colaborar en: **Proyectos Open Source**
-- 💬 Pregúntame sobre: **Tus Tecnologías Principales**
-- ⚡ Dato curioso: **Algo Interesante sobre Ti**
-
----
 
 ### 🛠 Tech Stack
 
