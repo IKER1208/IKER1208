@@ -1,14 +1,14 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=180&section=header&text=¡Hola,%20soy%20Iker!%20👋&fontSize=36&fontAlignY=35&desc=Desarrollador%20de%20Software%20Apasionado&descAlignY=55&descAlign=50&fontColor=ffffff" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=180&section=header&text=¡Hola,%20soy%20Iker!%20👋&fontSize=36&fontAlignY=35&desc=Desarrollador%20de%20Software%20Fullstack&descAlignY=55&descAlign=50&fontColor=ffffff" alt="header">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
-💡 Soy un **desarrollador de software** apasionado por crear soluciones innovadoras.  
-🚀 Actualmente enfocado en **aplicaciones web, backend y arquitectura de software**.  
-📚 Siempre aprendiendo nuevas tecnologías para mejorar mi stack.  
+💡 Soy un **desarrollador de software fullstack** con experiencia en **aplicaciones web, móviles y backend**.  
+🚀 Me encanta aprender y aplicar nuevas tecnologías para resolver problemas reales.  
+⚡ Interesado en **arquitectura de software, IA y cloud computing**.  
 
 ---
 
@@ -17,16 +17,43 @@
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ### Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Herramientas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### Desarrollo Móvil
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ---
 
@@ -46,13 +73,6 @@
 ## 🏆 Logros
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IKER1208&theme=tokyonight&margin-w=15&row=1" alt="Trofeos GitHub"/>
-</p>
-
----
-
-## ✍️ Frase Inspiradora
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Frases aleatorias"/>
 </p>
 
 ---
@@ -92,5 +112,5 @@ Breve descripción del proyecto.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IKER1208&label=Visitas&color=9333EA&style=flat-square" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=IKER1208&label=Visitas&color=A855F7&style=flat-square" alt="Visitas"/>
 </p>
