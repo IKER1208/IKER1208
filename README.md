@@ -57,6 +57,16 @@
 
 ---
 
+## 🎨 Todos mis Skills (Icons)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,android,angular,ansible,apollo,apple,appwrite,arch,arduino,astro,atom,autocad,aws,azul,azure,babel,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,cs,cpp,crystal,cassandra,clion,clojure,cloudflare,cmake,codepen,coffeescript,css,cypress,d3,dart,debian,deno,devto,discord,bots,discordjs,django,docker,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gmail,gherkin,go,gradle,godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kali,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,md,mastodon,materialui,matlab,maven,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nuxt,oauth,opera,package,json,postgresql,prisma,python,qt,react,reactnative,redux,rust,rxjs,scala,sass,selenium,solidity,spring,sqlite,swift,tailwindcss,tensorflow,three,tikz,ts,typescript,vercel,vue,webpack,wordpress,zsh&perline=15" />
+  </a>
+</p>
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
